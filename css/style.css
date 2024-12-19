@@ -1,0 +1,8 @@
+.background-image{
+    background-image: url('imgs/img5.jpg');
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 2;
+    background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+}
